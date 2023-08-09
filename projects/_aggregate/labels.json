@@ -1,0 +1,56 @@
+{
+    "CKPT_DIR": "auto",
+    "projects": {
+        "fetalhealthclassifier": [
+            "fhc_kfold_mlp_0000-0",
+            "fhc_kfold_mlp_0001-0",
+            "fhc_kfold_mlp_0002-0",   
+            "fhc_kfold_resnet_0000-0",
+            "fhc_kfold_resnet_0001-0",
+            "fhc_kfold_resnet_0002-0",
+            "fhc_kfold_transformer_0000-0",
+            "fhc_kfold_transformer_0001-0",
+            "fhc_kfold_transformer_0002-0"
+        ],
+        "maternalhealth":[
+            "maternalhealth_kfold_mlp_0000-0",
+            "maternalhealth_kfold_mlp_0001-0",
+            "maternalhealth_kfold_mlp_0002-0",
+            "maternalhealth_kfold_resnet_0000-0",
+            "maternalhealth_kfold_resnet_0001-0",
+            "maternalhealth_kfold_resnet_0002-0",
+            "maternalhealth_kfold_transformer_0000-0",
+            "maternalhealth_kfold_transformer_0001-0",
+            "maternalhealth_kfold_transformer_0002-0"
+        ],
+        "smoking": [
+            "smoking_standard_mlp_0000-0",
+            "smoking_standard_mlp_0001-0",
+            "smoking_standard_mlp_0002-0",
+            "smoking_standard_resnet_0000-0",
+            "smoking_standard_resnet_0001-0",
+            "smoking_standard_resnet_0002-0",
+            "smoking_standard_transformer_0000-0",
+            "smoking_standard_transformer_0001-0",
+            "smoking_standard_transformer_0002-0"
+        ],
+        "heartdisease": [
+            "heartdisease_standard_mlp_0000-0",
+            "heartdisease_standard_mlp_0001-0",
+            "heartdisease_standard_mlp_0002-0",
+            "heartdisease_standard_resnet_0000-0",
+            "heartdisease_standard_resnet_0001-0",
+            "heartdisease_standard_resnet_0002-0",
+            "heartdisease_standard_transformer_0000-0",
+            "heartdisease_standard_transformer_0001-0",
+            "heartdisease_standard_transformer_0002-0"
+        ]
+    },
+    "PROXY_NAMES":{
+        "fetalhealthclassifier": "FTH",
+        "maternalhealth": "MHR",
+        "smoking": "SMK",
+        "heartdisease": "HDis"
+    }       
+    
+}

@@ -1,0 +1,5 @@
+
+
+Feng : What do you mean by saying token? is it from language model?
+
+Erico: yes, a token in NLP is like a broken down bits of input. Word tokenization example: tokenize(“life is a matter of choice”)=[ ‘life’, ‘is’, ‘a’, ‘matter’, ‘of’, ‘choice’]. Tokenization at character level. Each of the token will have one trainable vector; we use "embedding" to transform the token into the vector.
