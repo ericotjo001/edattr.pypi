@@ -24,6 +24,7 @@ python main.py --mode compare --label maternalhealth_kfold_transformer_0000-0 --
 python main.py --mode aggregate_compare
 ```
 
+To see the full instructions, read the respective README files for each project inside /projects folder
 
 # About
 
@@ -87,11 +88,6 @@ https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-dis
 400k patients!
 HeartDisease" as a binary ("Yes" - respondent had heart disease; "No" - respondent had no heart disease).
 
-# To-do
-1. Create Token only framework? (We have Num and Token+Num now) 
-2. Perhaps deprecate k-fold framework, it feels a bit cumbersome. Maybe using repeating the standard train/val/test pipeline 5x with proper adjustment will substitue k-fold.
-
-Erico: hi Feng, I've created \_misc/discussion.txt thread for us to discuss.
 
 
 
