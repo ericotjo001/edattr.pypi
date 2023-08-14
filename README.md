@@ -44,17 +44,17 @@ All required packages are listed in the yml file except pytorch (which you may n
 
 **PYTORCH INSTALLATION**
 For any pytorch related stuff, we install after all the standard packages (just in case)
-
+```
 pip3 install numpy --pre torch --force-reinstall --index-url https://download.pytorch.org/whl/nightly/cu117
 pip3 install captum==0.6.0
-
+```
 At the time of installation, our pytorch version is 2.1.0.dev20230406+cu117
 
 **Install standard packages**
-
+```
 cuda version 11.7
 conda env update --file env.yml
-
+```
 
 ## Data
 See README.md file in projects folder to understand the types of format currently supported by our package.
