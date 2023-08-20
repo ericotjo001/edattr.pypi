@@ -1,5 +1,6 @@
 # edattr: Endorsed Attributions
 
+edattr python package IN PROGRESS.
 
 ## Preview
 This is a preview version to an upcoming preprint.
