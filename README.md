@@ -3,14 +3,16 @@
 edattr python package IN PROGRESS.
 
 ## Preview
-This is a preview version to an upcoming preprint.
+This is a preview version to this preprint <a href="https://www.techrxiv.org/articles/preprint/Endorsed_Attributions_eXplainable_AI_XAI_with_Voting_Mechanism_with_Application_in_Healthcare/23949135">Endorsed Attributions: eXplainable AI (XAI) with Voting Mechanism with Application in Healthcare</a>.
 
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1D7viU_kMzK3FEXQgUcnWBdDkYmeHC406" width="577"></img>
 <img src="https://drive.google.com/uc?export=view&id=17FjxxIdLtvCyCPrWBPx-Hkvu-aow8Vfc" width="577"></img>
 </div>
 
-The results can be obtained with simple condensed commands like:
+First, you need to make sure that edattr package is available. Currently, you need to make sure that your conda environment has access to src folder in our repository before running any of the commands below. Upcoming: pip install edattr (to be updated).
+
+The results can be obtained with simple condensed commands. For example, inside projects/maternalhealth folder, run the following:
 ```
 python main.py --mode preprocess_normalize
 
