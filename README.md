@@ -10,7 +10,7 @@ This is a preview version to this preprint <a href="https://www.techrxiv.org/art
 <img src="https://drive.google.com/uc?export=view&id=17FjxxIdLtvCyCPrWBPx-Hkvu-aow8Vfc" width="577"></img>
 </div>
 
-First, you need to make sure that edattr package is available. Currently, you need to make sure that your conda environment has access to src folder in our repository before running any of the commands below. Upcoming: pip install edattr (to be updated).
+First, you need to make sure that edattr package can be imported into python. Currently, you need to make sure that your conda environment has access to src folder in our repository before running any of the commands below (to do it, refer to <a href="https://stackoverflow.com/questions/37006114/anaconda-permanently-include-external-packages-like-in-pythonpath">this</a>). Upcoming: pip install edattr (to be updated).
 
 The results can be obtained with simple condensed commands. For example, inside projects/maternalhealth folder, run the following:
 ```
