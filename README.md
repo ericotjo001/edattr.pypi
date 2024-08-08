@@ -3,7 +3,7 @@
 edattr python package IN PROGRESS.
 
 ## Preview
-This is a preview version to this preprint <a href="https://www.techrxiv.org/articles/preprint/Endorsed_Attributions_eXplainable_AI_XAI_with_Voting_Mechanism_with_Application_in_Healthcare/23949135">Endorsed Attributions: eXplainable AI (XAI) with Voting Mechanism with Application in Healthcare</a>. Supplementary material is included.
+This is a preview version to this preprint <a href="[https://www.techrxiv.org/articles/preprint/Endorsed_Attributions_eXplainable_AI_XAI_with_Voting_Mechanism_with_Application_in_Healthcare/23949135](https://www.researchgate.net/publication/373185730_Endorsed_Attributions_eXplainable_AI_XAI_with_Voting_Mechanism_with_Application_in_Healthcare)">Endorsed Attributions: eXplainable AI (XAI) with Voting Mechanism with Application in Healthcare</a>. Supplementary material is included.
 
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1D7viU_kMzK3FEXQgUcnWBdDkYmeHC406" width="577"></img>
